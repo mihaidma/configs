@@ -1,5 +1,14 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.tabSize": 2,
-    "files.trimTrailingWhitespace": true
+  "editor.fontFamily": "Consolas",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 17,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorStyle": "block",
+  "files.insertFinalNewline": true,
+  "window.zoomLevel": 0,
+  "editor.wordWrap": true,
+  "workbench.colorTheme": "Blackboard",
+  "workbench.iconTheme": "vs-seti"
 }
