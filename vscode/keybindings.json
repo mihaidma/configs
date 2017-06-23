@@ -17,5 +17,13 @@
   "key": "ctrl+k ctrl+f",
   "command": "-editor.action.formatSelection",
   "when": "editorHasDocumentSelectionFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly"
+},
+{
+  "key": "ctrl+shift+right",
+  "command": "workbench.action.increaseViewSize"
+},
+{
+  "key": "ctrl+shift+left",
+  "command": "workbench.action.decreaseViewSize"
 }
 ]
