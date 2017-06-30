@@ -4,11 +4,14 @@
   "editor.fontSize": 15,
   "editor.lineHeight": 17,
   "editor.tabSize": 2,
+  "editor.detectIndentation": false,
   "files.trimTrailingWhitespace": true,
   "editor.cursorStyle": "block",
   "files.insertFinalNewline": true,
   "window.zoomLevel": 0,
-  "editor.wordWrap": true,
+  "editor.wordWrap": "off",
+  "explorer.autoReveal": false,
   "workbench.colorTheme": "Blackboard",
-  "workbench.iconTheme": "vs-seti"
+  "workbench.iconTheme": "vs-seti",
+  "markdown.styles": ["/run/media/mihai/71A29B8E328361DF/work/Config/vscode/github-markdown.css"]
 }
