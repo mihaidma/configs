@@ -1,5 +1,6 @@
 // Place your settings in this file to overwrite the default settings
 {
+  "editor.minimap.enabled": false,
   "editor.fontFamily": "Consolas",
   "editor.fontSize": 15,
   "editor.lineHeight": 17,
@@ -10,8 +11,8 @@
   "files.insertFinalNewline": true,
   "window.zoomLevel": 0,
   "editor.wordWrap": "off",
-  "explorer.autoReveal": false,
+  "vim.disableAnnoyingNeovimMessage": true,
   "workbench.colorTheme": "Blackboard",
   "workbench.iconTheme": "vs-seti",
-  "markdown.styles": ["/run/media/mihai/71A29B8E328361DF/work/Config/vscode/github-markdown.css"]
+  "markdown.styles": ["/run/media/mihai/Media/work/Config/vscode"]
 }
