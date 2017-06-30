@@ -14,5 +14,7 @@
   "vim.disableAnnoyingNeovimMessage": true,
   "workbench.colorTheme": "Blackboard",
   "workbench.iconTheme": "vs-seti",
+  "vim.enableNeovim": true,
+  "vim.neovimPath": "/usr/bin/nvim",
   "markdown.styles": ["/run/media/mihai/Media/work/Config/vscode"]
 }
