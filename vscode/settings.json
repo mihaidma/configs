@@ -11,21 +11,9 @@
   "files.insertFinalNewline": true,
   "window.zoomLevel": 1,
   "editor.wordWrap": "off",
-  "vim.enableNeovim": true,
-  "vim.neovimPath": "/usr/bin/nvim",
   "vim.useSystemClipboard": true,
   "explorer.autoReveal": false,
-  "extensions.ignoreRecommendations": false,
   "editor.renderControlCharacters": true,
   "explorer.openEditors.visible": 0,
-  "editor.renderWhitespace": "none",
-  "workbench.colorTheme": "Blackboard",
-  "workbench.colorCustomizations": {
-    "editor.background": "#0c1821",
-    // "editor.background": "#0c1c1c",
-    "activityBar.background": "#0c1c1c",
-    "sideBar.background": "#0a1a1a",
-    "statusBar.background": "#0c1c1c",
-    "statusBar.foreground": "#c6d4f5"
-  }
+  "editor.renderWhitespace": "none"
 }

@@ -1,21 +1,11 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-{ "key": "ctrl+k ctrl+b", "command": "workbench.action.toggleSidebarVisibility"},
-{ "key": "ctrl+shift+enter", "command": "workbench.action.maximizeEditor" },
-{ "key": "ctrl+shift+t",          "command": "workbench.action.terminal.openNativeConsole",
-                                     "when": "!terminalFocus" },
 {
-  "key": "ctrl+f4",
-  "command": "workbench.action.closeActiveEditor"
+  "key": "ctrl+shift+enter", "command": "workbench.action.maximizeEditor"
 },
 {
   "key": "= =",
   "command": "editor.action.formatSelection",
-  "when": "editorHasDocumentSelectionFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly"
-},
-{
-  "key": "ctrl+k ctrl+f",
-  "command": "-editor.action.formatSelection",
   "when": "editorHasDocumentSelectionFormattingProvider && editorHasSelection && editorTextFocus && !editorReadonly"
 },
 {
